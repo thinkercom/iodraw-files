@@ -73,7 +73,7 @@
         <mxCell id="rFbLVzVunjT9jkpoJ9K8-8" value="改进回字形分解法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="65" y="140" width="99" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rFbLVzVunjT9jkpoJ9K8-9" value="混合A*算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-9" value="混合&lt;font face=&quot;Times New Roman&quot;&gt;A*&lt;/font&gt;算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="179" y="140" width="99" height="24" as="geometry" />
         </mxCell>
         <mxCell id="rFbLVzVunjT9jkpoJ9K8-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;" parent="1" edge="1">
