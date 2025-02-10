@@ -1,0 +1,121 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="pPlT2N_w13uejxZfNnkH">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="42" width="706" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-37" value="" style="whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="525" y="26" width="209" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-39" value="Yolo算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="581" y="140" width="99" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-41" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Times New Roman;" parent="1" target="rFbLVzVunjT9jkpoJ9K8-39" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="631" y="112" as="sourcePoint" />
+            <mxPoint x="631" y="136" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="631" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-20" value="" style="whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="293" y="26" width="223" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="375" y="55" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-22" value="动态窗口法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="298" y="140" width="86" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-23" value="人工势场法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="412" y="140" width="99" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-24" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="117" as="sourcePoint" />
+            <mxPoint x="340" y="141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-25" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="117" as="sourcePoint" />
+            <mxPoint x="460" y="141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-26" value="局部规划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="304" y="179" width="81" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-27" value="实时避障" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="419" y="180" width="81" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-14" value="" style="whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="60" y="26" width="223" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-1" value="路径规划" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-2" value="自动避障" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="300" y="40" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-3" value="目标识别" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="534" y="40" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="142" y="55" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-8" value="改进回字形分解法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="65" y="140" width="99" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-9" value="混合A*算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="179" y="140" width="99" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="107" y="117" as="sourcePoint" />
+            <mxPoint x="107" y="141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="107" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="227" y="117" as="sourcePoint" />
+            <mxPoint x="227" y="141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="227" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-17" value="全局规划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="71" y="179" width="81" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-18" value="路径优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="186" y="180" width="81" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" source="rFbLVzVunjT9jkpoJ9K8-22" target="rFbLVzVunjT9jkpoJ9K8-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.002" y="153.488" as="sourcePoint" />
+            <mxPoint x="417.2" y="153.22047244094492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="403.2" y="153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFbLVzVunjT9jkpoJ9K8-45" value="视觉优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="589" y="178" width="81" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
